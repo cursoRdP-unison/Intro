@@ -1,4 +1,4 @@
-# Manual de prácticas interactivas de la materia Reconocimiento de Patrines
+# Manual de prácticas interactivas de la materia Reconocimiento de Patrones
 
 ## Universidad de Sonora
 
