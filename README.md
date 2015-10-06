@@ -42,7 +42,7 @@ Páctica | Enlace | Fecha limite de entrega (2015b)
 2. PLA y error en muestra y fuera de muestra | [https://github.com/cursoRdP-unison/PLA](https://github.com/cursoRdP-unison/PLA) | lunes 14 de septiembre 2015
 3. Regresión lineal |  [https://github.com/cursoRdP-unison/MLS](https://github.com/cursoRdP-unison/MLS)| lunes 21 de septiembre 2015
 4. Regresión logística | [https://github.com/cursoRdP-unison/logistica](https://github.com/cursoRdP-unison/logistica)| lunes 28 de septiembre 2015
-5. Regresión softmax | [https://github.com/cursoRdP-unison/softmax](https://github.com/cursoRdP-unison/softmax) | lunes 5 de octubre 2015
+5. Regresión logística varias clases | [https://github.com/cursoRdP-unison/softmax](https://github.com/cursoRdP-unison/softmax) | lunes 5 de octubre 2015
 6. Regularización |  [https://github.com/cursoRdP-unison/regu](https://github.com/cursoRdP-unison/regu) | lunes 12 de octubre 2015
 7. Redes neuronales artificiales  |  [https://github.com/cursoRdP-unison/RNA](https://github.com/cursoRdP-unison/RNA) | lunes 26 de octubre 2015
 8. Máquinas de vector de soporte | [https://github.com/cursoRdP-unison/SVM](https://github.com/cursoRdP-unison/SVM) | lunes 2 de noviembre 2015
