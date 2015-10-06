@@ -4,7 +4,7 @@
 
 ### Licenciatura en Ciencias de la Computación
 
-** Julio Waissman Vilanova**
+**Julio Waissman Vilanova**
 
 [juliowaissman@mat.uson.mx](juliowaissman@mat.uson.mx)
 
