@@ -42,7 +42,7 @@ Páctica | Enlace | Fecha limite de entrega (2015b)
 --------|--------|---------------------------------
 1. Introducción a `numpy` y `matplotlib` | [https://github.com/cursoRdP-unison/intro-numpy](https://github.com/cursoRdP-unison/intro-numpy) | lunes 25 de enero 2016
 2. PLA y error en muestra y fuera de muestra | [https://github.com/cursoRdP-unison/PLA](https://github.com/cursoRdP-unison/PLA) | lunes 8 de febrero de 2016
-3. Regresión lineal |  [https://github.com/cursoRdP-unison/MLS](https://github.com/cursoRdP-unison/MLS)| **pendiente**
+3. Regresión lineal |  [https://github.com/cursoRdP-unison/MLS](https://github.com/cursoRdP-unison/MLS)| sabado 20 de febrero de 2016
 4. Regresión logística | [https://github.com/cursoRdP-unison/logistica](https://github.com/cursoRdP-unison/logistica)| **pendiente**
 5. Regresión logística varias clases | [https://github.com/cursoRdP-unison/softmax](https://github.com/cursoRdP-unison/softmax) | **pendiente**
 6. Regularización |  [https://github.com/cursoRdP-unison/regu](https://github.com/cursoRdP-unison/regu) | **pendiente**
