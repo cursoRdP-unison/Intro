@@ -46,6 +46,6 @@ Páctica | Enlace | Fecha limite de entrega (2015b)
 4. Regresión logística | [https://github.com/cursoRdP-unison/logistica](https://github.com/cursoRdP-unison/logistica)| sabado 27 de febrero de 2016
 5. Regresión logística varias clases | [https://github.com/cursoRdP-unison/softmax](https://github.com/cursoRdP-unison/softmax) | sabado 12 de marzo de 2016
 6. Regularización |  [https://github.com/cursoRdP-unison/regu](https://github.com/cursoRdP-unison/regu) | sabado 2 de abril de 2016 
-7. Máquinas de vector de soporte | [https://github.com/cursoRdP-unison/SVM](https://github.com/cursoRdP-unison/SVM) | sábado 16 de abril de 2016
+7. Pandas y Scikit Learn | [https://github.com/cursoRdP-unison/SVM](https://github.com/cursoRdP-unison/pandas) | sábado 16 de abril de 2016
 8. Redes neuronales artificiales  |  [https://github.com/cursoRdP-unison/RNA](https://github.com/cursoRdP-unison/RNA) | **pendiente**
 9. Ajuste de métodos y curvas de error | [https://github.com/cursoRdP-unison/analisis](https://github.com/cursoRdP-unison/analisis) | **pendiente**
