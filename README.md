@@ -48,5 +48,5 @@ Páctica | Enlace | Fecha limite de entrega (2015b)
 6. Regularización |  [https://github.com/cursoRdP-unison/regu](https://github.com/cursoRdP-unison/regu) | sábado 2 de abril de 2016 
 7. Pandas  | [https://github.com/cursoRdP-unison/pandas](https://github.com/cursoRdP-unison/pandas) | sábado 16 de abril de 2016
 8. Redes neuronales artificiales  |  [https://github.com/cursoRdP-unison/RNA](https://github.com/cursoRdP-unison/RNA) | sábado 6 de mayo de 2016
-9. Maquinas de vectores de soporte | [https://github.com/cursoRdP-unison/analisis](https://github.com/cursoRdP-unison/analisis) | sábado 6 de mayo de 2016
-10. Uso básico de *Kaggle* | [https://github.com/cursoRdP-unison/analisis](https://github.com/cursoRdP-unison/analisis) | sábado 6 de mayo de 2016
+9. Maquinas de vectores de soporte | [https://github.com/cursoRdP-unison/svm](https://github.com/cursoRdP-unison/svm) | sábado 6 de mayo de 2016
+10. Uso básico de *Kaggle* | [https://github.com/cursoRdP-unison/IntroKaggle](https://github.com/cursoRdP-unison/IntroKaggle) | sábado 6 de mayo de 2016
