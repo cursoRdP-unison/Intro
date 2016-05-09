@@ -50,3 +50,4 @@ Páctica | Enlace | Fecha limite de entrega (2015b)
 8. Redes neuronales artificiales  |  [https://github.com/cursoRdP-unison/RNA](https://github.com/cursoRdP-unison/RNA) | sábado 6 de mayo de 2016
 9. Maquinas de vectores de soporte | [https://github.com/cursoRdP-unison/svm](https://github.com/cursoRdP-unison/svm) | sábado 6 de mayo de 2016
 10. Uso básico de *Kaggle* | [https://github.com/cursoRdP-unison/IntroKaggle](https://github.com/cursoRdP-unison/IntroKaggle) | sábado 6 de mayo de 2016
+11. Análisis de algoritmos de aprendizaje | [https://github.com/cursoRdP-unison/analisis](https://github.com/cursoRdP-unison/analisis) | jueves 19 de mayo de 2016
