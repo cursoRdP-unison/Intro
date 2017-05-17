@@ -2,11 +2,13 @@
 
 ## Universidad de Sonora
 
-### Licenciatura en Ciencias de la Computación
+**Licenciatura en Ciencias de la Computación**
 
 **Julio Waissman Vilanova**
 
 [juliowaissman@mat.uson.mx](juliowaissman@mat.uson.mx)
+
+*Ultima vez impartida: semestre 2016a.*
 
 Este es un manual de prácticas interactivas para la materia de reconocimiento de patrones, 
 el cual se actualizará cada semestre con nuevas prácticas, así como con las fechas de entrega.
