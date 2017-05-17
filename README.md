@@ -1,3 +1,5 @@
+![alt text]( https://imgs.xkcd.com/comics/machine_learning.png "xkcd")
+
 # Manual de prácticas interactivas de la materia Reconocimiento de Patrones
 
 ## Universidad de Sonora
