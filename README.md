@@ -11,7 +11,7 @@
 Este es un manual de prácticas interactivas para la materia de reconocimiento de patrones, 
 el cual se actualizará cada semestre con nuevas prácticas, así como con las fechas de entrega.
 
-El material extra para la clase se puede encontrar [aqui](https://github.com/cursoRdP-unison/material).
+El material complementario para la clase se puede encontrar [aqui](http://cursordp-unison.github.io/material/).
 
 ## Como realizar y enviar prácticas
 
